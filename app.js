@@ -2,7 +2,7 @@ let numeroSecreto = 0;
 let intentos = 0;
 let listaNumeros = [];
 let rangoMaximo = 10;
-let maximosIntentos = 3;
+let maximosIntentos = 5;
 
 
 function asignarTextoElemento(elemento,texto){
